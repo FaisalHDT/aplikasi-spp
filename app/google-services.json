@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "495908908768",
+    "firebase_url": "https://ujikom-8d8a1.firebaseio.com",
+    "project_id": "ujikom-8d8a1",
+    "storage_bucket": "ujikom-8d8a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495908908768:android:0d5d6ebaa991bfef462a85",
+        "android_client_info": {
+          "package_name": "com.daskull.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495908908768-c7b18dti2hgid165lgf2uoeqcpu4e3v3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.daskull.myapplication",
+            "certificate_hash": "6817030204ed16a8b0b5634756dce3d74bb1fde6"
+          }
+        },
+        {
+          "client_id": "495908908768-bffe7o7ds2tge6gt2jbb05bkjsr1oess.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhtNqNB3FHTJo0Y4AVhSVSrRS3PxsaxkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495908908768-bffe7o7ds2tge6gt2jbb05bkjsr1oess.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
